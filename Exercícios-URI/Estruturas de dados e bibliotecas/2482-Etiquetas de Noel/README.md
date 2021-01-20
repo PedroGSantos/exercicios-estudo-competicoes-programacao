@@ -11,22 +11,17 @@ Obs.: É garantido que nenhuma tradução apareça repetida ou duplicada e os pa
 # Saída
 Seu programa deverá imprimir todas as etiquetas de acordo com a entrada, conforme o exemplo abaixo, sempre com uma linha em branco após a impressão de cada uma das etiquetas, inclusive após a última etiqueta.
 
-Exemplos de entrada | Exemplos de saída
-------------------- | ------------------
-2                   | John Brolargo
 
-frances             | Merry Christmas
-
-Joyeux Noel
-
+**Exemplo de entrada**  
+2              
+frances     
+Joyeux Noel     
+ingles      
+Merry Christmas     
+1       
+John Brolargo       
 ingles
 
+**Exemplo de saída**  
+John Brolargo   
 Merry Christmas
-
-1
-
-John Brolargo
-
-ingles
-
-------------------- | -------------------
